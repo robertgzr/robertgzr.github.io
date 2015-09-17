@@ -40,10 +40,10 @@ function($stateProvider, $urlRouterProvider)
           templateUrl: "app/landingView/landing.html"
         })
 
-        .state('projects', {
-          url: "/projects",
-          templateUrl: "app/projectsView/projects.html"
-        })
+        // .state('projects', {
+        //   url: "/projects",
+        //   templateUrl: "app/projectsView/projects.html"
+        // })
 
         .state('music', {
           url: "/music",
