@@ -1,0 +1,27 @@
+{
+  "name": "robertgzr.github.io",
+  "version": "1.2.0",
+  "homepage": "https://github.com/robertgzr/robertgzr.github.io",
+  "authors": [
+    "Robert Günzler <robert.guenzler@student.htw-berlin.de>"
+  ],
+  "description": "personal homepage of Robert G.",
+  "main": [
+    "app/app.js",
+    "app/app.css",
+    "index.html"
+  ],
+  "keywords": [
+    "homepage",
+    "robertgz"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "components",
+    "test",
+    "tests"
+  ]
+}

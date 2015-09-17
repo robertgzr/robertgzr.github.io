@@ -1,2 +1,4 @@
 # robertgzr.github.io
-personal homepage of Robert G.
+_my personal homepage_
+
+A place for me to experiment with web development

@@ -1,0 +1,22 @@
+/*
+Landing Stylesheet for robertgz.app
+*/
+
+#landing .center-block {
+    display: block;
+    padding-top: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#twittername {
+  -moz-animation-duration: 0.5s;
+}
+#realname {
+  -moz-animation-duration: 0.5s;
+}
+
+#social_links a {
+    color: rgba(255,255,255,0.7);
+}

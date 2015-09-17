@@ -1,0 +1,1334 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sty",
+				"style	Attr"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"bg",
+				"bgc	background-color: #${1:fff};"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"ng-mous",
+				"ng-mousedown	AngularJS"
+			],
+			[
+				"ng-mou",
+				"ng-mousedown	AngularJS"
+			],
+			[
+				"ng-mouse",
+				"ng-mouseleave	AngularJS"
+			],
+			[
+				"ng-mo",
+				"ng-mouseover	AngularJS"
+			],
+			[
+				"$sta",
+				"$stateParams"
+			],
+			[
+				"$s",
+				"$state"
+			],
+			[
+				"$root",
+				"$rootScope	AngularJS"
+			],
+			[
+				"ng-cl",
+				"ng-click	AngularJS"
+			],
+			[
+				"pso",
+				"pos-r	position: relative;"
+			],
+			[
+				"a",
+				"a	<a href=\"mailto:\"> "
+			],
+			[
+				"ng-sw",
+				"ng-switch-default	AngularJS"
+			],
+			[
+				"$i",
+				"$interval	AngularJS(DI)"
+			],
+			[
+				"ng-switch",
+				"ng-switch-when	AngularJS"
+			],
+			[
+				"tm",
+				"templateUrl"
+			],
+			[
+				"$route",
+				"$routeProvider	AngularJS"
+			],
+			[
+				"my",
+				"myFac"
+			],
+			[
+				"json",
+				"jsonFactory"
+			],
+			[
+				"Land",
+				"LandingCtrl"
+			],
+			[
+				"Lan",
+				"LandingCtrl"
+			],
+			[
+				"name",
+				"name_visbl"
+			],
+			[
+				"nam",
+				"name_visbl"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"div",
+				"div	Tag"
+			],
+			[
+				"ng-c",
+				"ng-cloak	AngularJS"
+			],
+			[
+				"$inter",
+				"$interval	AngularJS"
+			],
+			[
+				"so",
+				"socialLinks"
+			],
+			[
+				"f",
+				"fullName"
+			],
+			[
+				"twitter",
+				"twitterName"
+			],
+			[
+				"onMouse",
+				"onmouseover	Attr"
+			],
+			[
+				"pos",
+				"pos-s	position: static;"
+			],
+			[
+				"image",
+				"imageURL"
+			],
+			[
+				"ima",
+				"imageURL"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"G",
+				"GalleryCtrl"
+			],
+			[
+				"g",
+				"galleryData"
+			],
+			[
+				"gll",
+				"galleryGrid"
+			],
+			[
+				"galle",
+				"galleryGrid"
+			],
+			[
+				"I",
+				"IMAGE_WIDTH"
+			],
+			[
+				"Da",
+				"DataSource"
+			],
+			[
+				"random",
+				"randomSlides"
+			],
+			[
+				"ran",
+				"ranodmJson"
+			],
+			[
+				"con",
+				"config	AngularJS"
+			],
+			[
+				"co",
+				"coverSlides"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"$in",
+				"$interval	AngularJS"
+			],
+			[
+				"twi",
+				"twitterName"
+			],
+			[
+				"ngcl",
+				"ng-click	AngularJS"
+			],
+			[
+				"ng-op",
+				"ng-options	AngularJS"
+			],
+			[
+				"select",
+				"select	Tag"
+			],
+			[
+				"ngsw",
+				"ng-switch	AngularJS"
+			],
+			[
+				"ng-",
+				"ng-include	AngularJS"
+			],
+			[
+				"hr",
+				"href	Attr"
+			],
+			[
+				"robertgz",
+				"robertgzApp"
+			],
+			[
+				"$sc",
+				"$scope	AngularJS"
+			],
+			[
+				"scrip",
+				"script	Tag"
+			],
+			[
+				"html",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"$rou",
+				"$routeParams	AngularJS"
+			],
+			[
+				"$rout",
+				"$routeParams	AngularJS(DI)"
+			],
+			[
+				"P",
+				"PageCntrl"
+			],
+			[
+				"sh",
+				"showFullName"
+			],
+			[
+				"ngc",
+				"ng-controller	AngularJS"
+			],
+			[
+				"ng-in",
+				"ng-init	AngularJS"
+			],
+			[
+				"input",
+				"inputs	input - search"
+			],
+			[
+				"script",
+				"script	Tag"
+			],
+			[
+				"M",
+				"MacOS"
+			],
+			[
+				"A",
+				"Applications"
+			],
+			[
+				"Nagi",
+				"Nagi_no_Asukara_TV_2013_Eng"
+			],
+			[
+				"_",
+				"_Anime"
+			],
+			[
+				"output",
+				"output_folder"
+			],
+			[
+				"mkv",
+				"mkvmerge"
+			],
+			[
+				"ar",
+				"argv"
+			],
+			[
+				"$routeP",
+				"$routeProvider	AngularJS(DI)"
+			],
+			[
+				"ng-v",
+				"ng-view	AngularJS"
+			],
+			[
+				"ng-s",
+				"ng-src	AngularJS"
+			],
+			[
+				"produ",
+				"product"
+			],
+			[
+				"prod",
+				"product"
+			],
+			[
+				"ng-re",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"ngs",
+				"ng-show	AngularJS"
+			],
+			[
+				"ng-r",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"if",
+				"ife	if … else"
+			],
+			[
+				"bs",
+				"bds-s	border-style: solid;"
+			],
+			[
+				"tw",
+				"tw"
+			],
+			[
+				"sc",
+				"sc"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"fl",
+				"fl-l	float: left;"
+			],
+			[
+				"li",
+				"lis-n	list-style: none;"
+			],
+			[
+				"po",
+				"pos-r	position: relative;"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"Verschlü",
+				"nVerschlüsselung"
+			],
+			[
+				"se",
+				"searchNameIndex"
+			],
+			[
+				"re",
+				"removeName"
+			],
+			[
+				"pr",
+				"printDList"
+			],
+			[
+				"pri",
+				"printf	printf …"
+			],
+			[
+				"nach",
+				"Nachname"
+			],
+			[
+				"is",
+				"isEmpty"
+			],
+			[
+				"dl",
+				"dlist_print"
+			],
+			[
+				"dlis",
+				"dlist_addStart"
+			],
+			[
+				"str",
+				"strcmp"
+			],
+			[
+				"dli",
+				"dlist"
+			],
+			[
+				"vn",
+				"vn"
+			],
+			[
+				"cr",
+				"create"
+			],
+			[
+				"cre",
+				"createNode"
+			],
+			[
+				"create",
+				"create"
+			],
+			[
+				"sl",
+				"slist_findName"
+			],
+			[
+				"new",
+				"newnodes"
+			],
+			[
+				"slist",
+				"slist_addEnd"
+			],
+			[
+				"sli",
+				"slist_findName"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"ma",
+				"malloc"
+			],
+			[
+				"Lis",
+				"Liste"
+			],
+			[
+				"t",
+				"title"
+			],
+			[
+				"al",
+				"album"
+			],
+			[
+				"album",
+				"albumartist"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "projects.html",
+			"settings":
+			{
+				"buffer_size": 1252,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/robertgz/Development/Web/divshot/robertgz/public/app/app.js",
+			"settings":
+			{
+				"buffer_size": 3091,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "AnglrHTML",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "pack",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"bower",
+				"Bower: Configure project"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"syn an",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"syn java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn css",
+				"Set Syntax: CSS"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"linter sett",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"sublime linter sett ",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"Package Control: up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"qu",
+				"Git: Quick Commit"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"a",
+				"Git: Add Current File"
+			],
+			[
+				"pu",
+				"Git: Push"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"qui",
+				"Git: Quick Commit"
+			],
+			[
+				"p",
+				"Git: Push"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"gitadd",
+				"Git: Add Current File"
+			],
+			[
+				"qi",
+				"Git: Quick Commit"
+			],
+			[
+				"st",
+				"Git: Status"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"quic",
+				"Git: Quick Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"quci",
+				"Git: Quick Commit"
+			],
+			[
+				"quc",
+				"Git: Quick Commit"
+			],
+			[
+				"git re",
+				"Git: Reset (unstage) All"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"git a",
+				"Git: Add Current File"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"syn c",
+				"Set Syntax: C"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"debu",
+				"BracketHighlighter: Disable Debug Mode"
+			],
+			[
+				"syn",
+				"Set Syntax: C"
+			],
+			[
+				"syntc",
+				"Set Syntax: C"
+			],
+			[
+				"synt tex",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/robertgz/Development/Web/divshot/robertgz",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/app",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/app/projectsView",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/data",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/partials"
+	],
+	"file_history":
+	[
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/partials/header.html",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/index.html",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/app/musicView/music.html",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/app/app.css",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/data/views.json",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/app/contactView/contact.css",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/data/socials.json",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/app/contactView/contact.html",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/app/landingView/landing.css",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/app/landingView/landing.html",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/app/projectsView/projects.html",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/app/favicoService.js",
+		"/Users/robertgz/Development/Web/divshot/robertgz/bower.json",
+		"/Users/robertgz/Development/Sublime Projects/divshot_rgz_dev/.bowerrc",
+		"/Users/robertgz/Development/Web/divshot/robertgz/.bowerrc",
+		"/Users/robertgz/Development/Web/divshot/robertgz/help",
+		"/Users/robertgz/Development/Web/divshot/robertgz/packages.json",
+		"/Users/robertgz/Development/Web/_webapps/yeoman_personal-generators/generator-angular-divshot/package.json",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/app/musicView/music.js",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/app/musicView/music.css",
+		"/Users/robertgz/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/partials/soundcloud.html",
+		"/Users/robertgz/Development/git/soundcloud-custom-player-master/examples/sc-player-minimal.html",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/app/projectsView/projects.css",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/app/projectsView/projects.js",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/partials/construction.html",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/partials/404.html",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/app/landingView/landing.js",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/app/contactView/contact.js",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/app/app.js",
+		"/Users/robertgz/Development/Web/divshot/robertgz/divshot.json",
+		"/Users/robertgz/Development/Web/divshot/robertgz/app/partials/landingpage.html",
+		"/Users/robertgz/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/robertgz/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/error.html",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/app/mainController.js",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/templates/header.html",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/app/partials/landingpage.html",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/app/projectView/projects.js",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/app/projectView/projects.css",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/app/projectView/projects.html",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/app/galleryController.js",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/app/controller.js",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/app/partials/bighex.html",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/css/custom_style.css",
+		"/Users/robertgz/Dropbox/PhyLPr2015/masseträgheitsmoment/protokoll_MTM.md",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/app/partials/soundcloud.html",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/app/partials/404.html",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/css/bootstrap.min.css",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/css/gallery.css",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/app/partials/gallery.html",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/app/gallery/data.json",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/app/gallery/wallp.json",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/app/gallery/real.json",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/app/gallery/cover.json",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/app/gallery/random.json",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/js/ngFlowGrid.js",
+		"/Users/robertgz/Development/CE-HTW/AdvancedAlgorithms/labor2_day1/ComplexNumber/ComplexNumber.cpp",
+		"/Users/robertgz/Development/Web/divshot/robertgz/public/app/gallery/reallife/fertig5.jpg",
+		"/Users/robertgz/Development/Web/divshot/robertgz/css/custom_style.css",
+		"/Users/robertgz/Development/Web/divshot/robertgz/app/mainController.js",
+		"/Users/robertgz/Development/Web/divshot/robertgz/app/app.js",
+		"/Users/robertgz/Development/Web/divshot/robertgz/gallery/random.json",
+		"/Users/robertgz/Development/Web/divshot/robertgz/templates/header.html",
+		"/Users/robertgz/Development/Web/divshot/robertgz/index.html",
+		"/Users/robertgz/Development/Web/divshot/robertgz/app/partials/gallery.html",
+		"/Users/robertgz/Development/Web/divshot/robertgz/app/galleryController.js",
+		"/Users/robertgz/Library/Application Support/Sublime Text 3/Packages/Arduino-like IDE/Main.sublime-menu",
+		"/Users/robertgz/Development/Web/divshot/robertgz/app/partials/404.html",
+		"/Users/robertgz/Development/Web/_topnotch/myAnglr/app/parts/landingpage.html",
+		"/Users/robertgz/Development/Web/_topnotch/myAnglr/app/app.js",
+		"/Users/robertgz/Development/Web/_topnotch/myAnglr/index.html",
+		"/Users/robertgz/Development/Web/_topnotch/myAnglr/app/parts/header.html",
+		"/Users/robertgz/Development/Web/_topnotch/myAnglr/index_old.html",
+		"/Users/robertgz/Development/Web/_topnotch/myAnglr/app/controllers.js",
+		"/Users/robertgz/Development/Web/_topnotch/myAnglr/parts/about.html",
+		"/Users/robertgz/Development/Web/_topnotch/myAnglr/parts/header.html",
+		"/Users/robertgz/Development/Web/_topnotch/myAnglr/parts/landingpage.html",
+		"/Users/robertgz/Development/Web/_topnotch/myAnglr/js/angular.js",
+		"/Users/robertgz/Development/Web/_topnotch/myAnglr/js/angular-route.js",
+		"/Users/robertgz/Development/Web/_topnotch/angularJS/buisnessfull_ajs/index.html",
+		"/Users/robertgz/Development/Web/_topnotch/angularJS/buisnessfull_ajs/js/main.js",
+		"/Users/robertgz/Development/Web/divshot/angularshop/index.html",
+		"/Users/robertgz/Development/Web/divshot/angularshop/app.js",
+		"/Users/robertgz/Development/Web/_topnotch/myAnglr/myAnglr.sublime-project",
+		"/Users/robertgz/Library/Application Support/Sublime Text 3/Packages/Emmet/Default (OSX).sublime-keymap",
+		"/Users/robertgz/Development/Web/_topnotch/myAnglr/parts/contact.html",
+		"/Users/robertgz/Development/Web/_topnotch/myAnglr/parts/services.html",
+		"/Users/robertgz/Library/Application Support/Sublime Text 3/Packages/User/HTML.sublime-build",
+		"/Users/robertgz/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/robertgz/.tidyconfig.txt",
+		"/Users/robertgz/Development/Web/_topnotch/bootstrap template/onepage/index.html",
+		"/Users/robertgz/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/robertgz/Library/Application Support/Sublime Text 3/Packages/HTML/HTML.tmLanguage",
+		"/Users/robertgz/Library/Application Support/Sublime Text 3/Installed Packages/HTML5.sublime-package",
+		"/Users/robertgz/Library/Application Support/Sublime Text 3/Packages/User/GCC (compile, run).sublime-build",
+		"/Volumes/tmp.KcvddP/thefolder/JackO/main.rb",
+		"/Users/robertgz/Transmission/The Purge Anarchy (2014)/The.Purge.Anarchy.German.BluRay.x264-EXQUiSiTE.srt",
+		"/Volumes/Transcend/_Anime/Nagi no Asukara/files.txt",
+		"/Volumes/Transcend/_Anime/Nagi no Asukara/files2.txt",
+		"/Volumes/Transcend/_Anime/Nagi no Asukara/files2",
+		"/Volumes/Transcend/_Anime/Nagi no Asukara/mergebatch.ps1",
+		"/Volumes/Transcend/_Anime/Nagi no Asukara/echo.txt",
+		"/Volumes/Transcend/_Anime/Nagi no Asukara/nagiasu1.mmg",
+		"/Volumes/Transcend/_Anime/Nagi no Asukara/Nagi_no_Asukara_TV_2013_Eng/subs.txt",
+		"/Volumes/Transcend/_Anime/Nagi no Asukara/Nagi_no_Asukara_TV_2013_Eng/nagi-asu.mmg",
+		"/Volumes/Transcend/_Anime/Nagi no Asukara/bathproc.command",
+		"/Users/robertgz/Development/Python/quickScripts/mkvmerge_batchfile_creator.py",
+		"/Users/robertgz/Development/Python/web_spider/kissanime_spider.py",
+		"/Users/robertgz/Development/Python/web_spider/quickScripts/mkvmerge_batchfile_creator.py",
+		"/Users/robertgz/Desktop/bookmarks_3_12_15.html",
+		"/Volumes/Transcend/_Anime/Nagi no Asukara/xdelta3-3.0.8/INSTALL",
+		"/Volumes/Transcend/_Anime/Nagi no Asukara/nagi_patches/runme.bat",
+		"/Users/robertgz/Development/Web/_topnotch/angularJS/buisnessfull_ajs/partials/404.html",
+		"/Users/robertgz/Development/Web/_topnotch/angularJS/buisnessfull_ajs/partials/blog_item.html",
+		"/Users/robertgz/Development/Web/_topnotch/angularJS/buisnessfull_ajs/partials/blog.html",
+		"/Users/robertgz/Development/Web/_topnotch/angularJS/buisnessfull_ajs/partials/services.html",
+		"/Users/robertgz/Development/Web/_topnotch/angularJS/buisnessfull_ajs/partials/pricing.html",
+		"/Users/robertgz/Development/Web/_topnotch/angularJS/buisnessfull_ajs/partials/about.html",
+		"/Users/robertgz/Development/Web/_topnotch/bootstrap template/buisnessfull/about.html",
+		"/Users/robertgz/Development/Web/_topnotch/bootstrap template/buisnessfull/index.html",
+		"/Users/robertgz/Development/Web/_topnotch/angularJS/buisnessfull_ajs/templates/header.html",
+		"/Users/robertgz/Development/Web/_topnotch/html5-boilerplate_v5.0.0/index.html",
+		"/Users/robertgz/Desktop/facebook.csv",
+		"/Users/robertgz/Development/Web/_topnotch/famous-starter-kit/starter-project/index.html",
+		"/Users/robertgz/Library/Application Support/Vienna/Styles/cstmStyle/stylesheet.css",
+		"/Users/robertgz/Library/Application Support/Vienna/Styles/cstmStyle/template.html",
+		"/Users/robertgz/Library/Application Support/Sublime Text 3/Packages/User/AngularJS-completions.sublime-settings"
+	],
+	"find":
+	{
+		"height": 55.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"c-*.c",
+			"adk-*.c",
+			"adk-ü",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"style=\"padding:10px;\"",
+			"h3",
+			"span",
+			"}",
+			"-image",
+			"EEE",
+			"fa-circle",
+			"#social_links",
+			"#social_links #Tumblr :hover {\n    color: rgba(33, 54, 80, 0.9);\n}",
+			"jumbotron",
+			"$interval",
+			"name_visbl",
+			"lowercase(myViews[i].name)",
+			"'",
+			"rApp",
+			"contact",
+			"path3974",
+			"click1",
+			"    \n",
+			"file",
+			"\"",
+			"name",
+			"linear all",
+			"flipping",
+			"my_animation",
+			"transform",
+			"parts",
+			"wrap",
+			"[Underwater-Vivid] Nagi no Asukara - 02 (720p) [475FE354].ass",
+			"[Nyanko] Nagi no Asukara - 02 [720p][58687438].ass",
+			"[HorribleSubs] Nagi no Asukara - 02 [720p].ass",
+			"[Moe-Force]_Nagi_no_Asukara_-_02_[TV][720p][Hi10P][2184AB33].mkv",
+			"./Nagi no Asukara/",
+			"/Volumes/Transcend/_Anime/",
+			"WI_VAL",
+			"HI_VAL",
+			"<!--  MAIN PAGE  -->",
+			"10px",
+			"{\n",
+			"wrap",
+			"abbreviation",
+			"wrap",
+			"Pointer",
+			"read_key",
+			"curr",
+			"FILE",
+			">\n",
+			" <",
+			"stdlib",
+			">\n",
+			"listnode",
+			"arr",
+			"conv",
+			"MAXIMUM",
+			"arr",
+			"ctrl+",
+			"ctrl+i",
+			"domain_length",
+			"domain_lenght",
+			"domain_lengh",
+			"dot",
+			"at",
+			"printf(\"%i\\n\", head_r);",
+			"n",
+			"enqueue_q",
+			"tail",
+			"head",
+			"ÃŸ",
+			"Ã¶",
+			"Ã¤",
+			"Ã¼",
+			"n",
+			"n\n    ",
+			"\n    ",
+			"z",
+			"&d",
+			"CPPFLAGS"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"",
+			"src",
+			"'",
+			"file",
+			"flippingIn",
+			"flippingOut",
+			"flipping",
+			"partials",
+			"[Underwater-Vivid] Nagi no Asukara - 03 (720p) [FB964F8F].ass",
+			"[Nyanko] Nagi no Asukara - 03 [720p][AFA3A3B3].ass",
+			"[HorribleSubs] Nagi no Asukara - 03 [720p].ass",
+			"[Moe-Force]_Nagi_no_Asukara_-_03_[TV][720p][Hi10P][C2ECCDFB].mkv",
+			"./",
+			"$wi",
+			"$hi",
+			"dlistPtr",
+			"KEY",
+			"p",
+			"evlist",
+			"hexa",
+			"bin_con",
+			"BUF_MAX",
+			"buffer",
+			"tld_length",
+			"tld_lengtht",
+			"tld_length",
+			"dot_exists",
+			"at_exists",
+			"printf(\"head: %i\\n\", head_r);",
+			"N",
+			"enqueue_r",
+			"tail_q",
+			"head_q",
+			"ß",
+			"oe",
+			"ae",
+			"ue"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "projects.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1252,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								765,
+								709
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "/Users/robertgz/Development/Web/divshot/robertgz/public/app/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3091,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2751,
+								3011
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1388.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 54.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.512737435456,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 110.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "robertgzApp.sublime-project",
+	"replace":
+	{
+		"height": 92.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Development/CE-HTW/rheader.c"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"fss_on_distraction_free": false,
+		"fss_on_full_screen": false
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 227.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

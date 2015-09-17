@@ -1,0 +1,7 @@
+#projects .center-block {
+    display: block;
+    padding-top: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
