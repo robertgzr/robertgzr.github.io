@@ -10,7 +10,7 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" ui-sref="home" ng-class="{'animated jello': click}" ng-mouseenter="hov = !hov" ng-mouseleave="hov = !hov" ng-mousedown="click = !click">
+            <a class="navbar-brand" ui-sref="home" ng-class="{'animated pulse': click}" ng-mouseenter="hov = !hov" ng-mouseleave="hov = !hov" ng-mousedown="click = !click">
                 <li class="animated fa fa-md" ng-class="hov ? 'fa-circle' : 'fa-circle-o'"></li>
                 robertgz
             </a>
@@ -24,15 +24,16 @@
                     <a ui-sref="{{view.state}}">{{view.name}}</a>
                 </li> -->
 
-                <li>
+                <li title="I am still working on this.">
                     <a ui-sref="music">Music
-                    <span class="label label-danger">dev</span>
+                    <!-- <span class="label label-danger">dev</span> -->
                     </a>
                 </li>
                 <li><a ui-sref="projects">Projects</a></li>
                 <li><a ui-sref="contact">Contact</a></li>
 
             </ul>
+            <div id="header_warn" class="label label-warning"><div class="fa fa-lg fa-warning"></div><span>This site is under construction. Some things might be broken.</span></div>
         </div>
     </div>
 </nav>
