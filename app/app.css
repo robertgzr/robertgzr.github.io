@@ -12,7 +12,7 @@ Global Stylesheet for robertgz.app
 }
 
 html {
-    background: url(../ressources/hexagon_bg.png) no-repeat center center fixed;
+    background: url(../ressources/hexagon_bg_slim.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
