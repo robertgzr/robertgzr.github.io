@@ -8,6 +8,14 @@ components/*
 components/animate.css/*
 !components/animate.css/animate.css
 
+!components/bootstrap/
+components/bootstrap/*
+!components/bootstrap/dist/
+components/bootstrap/dist/*
+!components/bootstrap/dist/css/
+components/bootstrap/dist/css/*
+!components/bootstrap/dist/css/bootstrap.css
+
 !components/font-awesome/
 components/font-awesome/*
 !components/font-awesome/css/
