@@ -23,12 +23,18 @@ module.exports = function(grunt) {
                 port: 7070
             },
         },
+        wiredep: {
+            target: {
+                src: 'index.html'
+            }
+        }
     });
 
     grunt.loadNpmTasks('grunt-browser-sync');
+    grunt.loadNpmTasks('grunt-wiredep')
 
     // default task
-    grunt.registerTask('default', 'jshint');
+    grunt.registerTask('default', ['wiredep']);
     // server task
-    grunt.registerTask('server', ['browserSync']);
+    grunt.registerTask('server', ['default','browserSync']);
 };

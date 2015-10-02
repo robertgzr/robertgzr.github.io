@@ -23,5 +23,23 @@
     "components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "angular-animate": "~1.4.5",
+    "angular": "~1.4.5",
+    "animate.css": "~3.4.0",
+    "angular-ui-router": "~0.2.15",
+    "angular-bootstrap": "~0.13.4",
+    "bootstrap": "~3.3.5",
+    "favico.js": "~0.3.9",
+    "font-awesome": "~4.4.0"
+  },
+  "overrides": {
+    "bootstrap": {
+      "main": "dist/css/bootstrap.css"
+    },
+    "font-awesome": {
+      "main": "css/font-awesome.css"
+    }
+  }
 }
