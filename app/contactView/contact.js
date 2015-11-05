@@ -16,4 +16,4 @@ function($scope, $http, JSONFactory)
             }, function (error) {
             console.error(error);
             });
-}])
+}]);
