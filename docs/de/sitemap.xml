@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://gnzler.io/de/blog/willkommen/</loc>
+    <lastmod>2017-07-27T17:22:26+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gnzler.io/blog/welcome/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://gnzler.io/de/blog/willkommen/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gnzler.io/de/blog/</loc>
+    <lastmod>2017-07-27T17:22:26+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gnzler.io/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://gnzler.io/de/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gnzler.io/de/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gnzler.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://gnzler.io/de/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gnzler.io/de/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gnzler.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://gnzler.io/de/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gnzler.io/de/</loc>
+    <lastmod>2017-07-27T17:22:26+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gnzler.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://gnzler.io/de/"
+                />
+  </url>
+  
+</urlset>

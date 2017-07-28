@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://gnzler.io/blog/welcome/</loc>
+    <lastmod>2017-07-27T17:22:26+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://gnzler.io/de/blog/willkommen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gnzler.io/blog/welcome/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gnzler.io/code/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gnzler.io/blog/</loc>
+    <lastmod>2017-07-27T17:22:26+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://gnzler.io/de/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gnzler.io/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gnzler.io/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://gnzler.io/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gnzler.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gnzler.io/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://gnzler.io/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gnzler.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://gnzler.io/</loc>
+    <lastmod>2017-07-27T17:22:26+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://gnzler.io/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gnzler.io/"
+                />
+  </url>
+  
+</urlset>
