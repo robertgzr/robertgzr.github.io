@@ -1,0 +1,16 @@
+<li class="code-item">
+    <div class="left">
+        <span>*</span>
+    </div>
+    <div class="right">
+        <h3>{{ .Title }}</h3>
+        <h4>{{ .Params.Tagline }}</h4>
+        <p>
+            {{ .Params.Description }}
+        </p>
+        <div class="links">
+            <a href="{{ .Permalink }}"><span>About</span></a>
+            <a href="{{ .Params.Repo }}"><span>Code</span></a>
+        </div>
+    </div>
+</li>

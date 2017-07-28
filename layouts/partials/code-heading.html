@@ -1,0 +1,10 @@
+<div class="code-heading">
+{{ if .Params.heading }}
+    {{ .Params.heading }}
+{{ else }}
+    <span>{{ title .Params.Lang }}</span>
+    <!-- {{ index (split .Params.Repo "/") 2 }} -->
+    <span><a href="{{ .Params.Repo }}">{{ slicestr .Params.Repo 2 }}</a></span>
+    <span>{{ .Params.Tagline }}</span>
+{{ end }}
+</div>

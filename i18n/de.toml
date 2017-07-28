@@ -1,0 +1,16 @@
+[latestPosts]
+other = "Letzte Posts"
+
+[pageNotFound]
+other = "Sorry, die Seite existiert nicht"
+
+[readingTime]
+one = "eine Minute zu lesen"
+other = "{{ .Count }} Minuten zu lesen"
+
+[backToPosts]
+other = "Zurück zum Blog"
+
+[codeHeading]
+other = "Code"
+

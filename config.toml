@@ -1,0 +1,50 @@
+baseURL = "https://gnzler.io/"
+title = "robertgzr"
+author = "Robert"
+languageCode = "en-us"
+theme = "cocoa"
+publishDir = "docs"
+builddrafts = false
+canonifyurls = true
+
+[permalinks]
+blog = "blog/:slug/"
+
+[[menu.main]]
+name = "Blog"
+weight = -120
+identifier = "blog"
+url = "/blog/"
+
+[[menu.main]]
+name = "Code"
+weight = -110
+identifier = "code"
+url = "/code/"
+
+[params]
+latestpostcount = 3
+i18n_flags = true
+highlighjs = true
+lang = "en"
+highlightjslanguages = ["go"]
+highlightjsStyle     = "darcula"
+
+author = "robertgzr"
+selfintro = ""
+email = "r@gnzler.io"
+
+avatar = "img/profile.png"
+faviconfile = "img/favicon.ico"
+extracssfiles = [ 
+    "/css/override.css", 
+    "/css/more.css"
+]
+
+github = "//github.com/robertgzr"
+linkedin = "//linkedin.com/in/robert-günzler-a94a3613a"
+mastodon = "//toot.berlin/@robertgzr"
+
+[Languages]
+[Languages.en]
+[Languages.de]

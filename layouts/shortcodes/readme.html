@@ -1,0 +1,3 @@
+{{ $ownerrepo := .Get 0 }}
+{{ $data := getJSON "https://api.github.com/repos/" $ownerrepo "/readme" }}
+{{ $data.content | base64Decode | markdownify }}

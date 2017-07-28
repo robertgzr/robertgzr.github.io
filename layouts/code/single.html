@@ -1,0 +1,20 @@
+{{ partialCached "header.html" . }}
+
+<section class="main code non-narrow zero-top-spacing">
+    <div class="container">
+        <div class="content">
+            <div class="front-matter">
+                <div class="title-container">
+                    {{ partial "code-heading.html" . }}
+                    <div class="initials"><a href="{{ .Site.BaseURL }}">{{ .Site.Params.Initials }}</a></div>
+                </div>
+
+            </div>
+            <div class="markdown">
+                {{ .Content }}
+            </div>
+        </div>
+    </div>
+</section>
+
+{{ partialCached "footer.html" . }}

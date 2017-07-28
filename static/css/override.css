@@ -1,0 +1,126 @@
+/* --- Override --- */
+
+.accent {
+  color: #199f6b !important;
+}
+a {
+  color: #199f6b;
+}
+a:hover {
+  color: #0a3f2a;
+}
+
+section.header .name {
+  text-transform: none;
+  font-family: 'Fira Sans', 'Helvetica Neue', 'Arial', sans-serif;
+  font-weight: 500;
+}
+section.header h3.self-intro {
+  font-family: 'Fira Sans', 'Helvetica Neue', 'Arial', sans-serif;
+}
+section.header nav {
+  text-transform: none;
+  font-family: 'Fira Sans', 'Helvetica Neue', 'Arial', sans-serif;
+}
+
+section.main .content .title-container .initials {
+  font-family: 'Fira Sans', 'Helvetica Neue', 'Arial', sans-serif;
+}
+section.main .content .page-heading {
+  text-transform: none;
+  font-family: 'Fira Sans', 'Helvetica Neue', 'Arial', sans-serif;
+  font-weight: 500;
+}
+
+section.main .container.f04 .content .num {
+  font-family: 'Fira Sans', 'Helvetica Neue', 'Arial', sans-serif;
+}
+section.main .container .content .no-bullet .date {
+  font-family: 'Fira Sans', 'Helvetica Neue', 'Arial', sans-serif;
+  font-weight: 500;
+}
+
+@media (min-width: 600px) {
+  section.main {
+    font-size: 2rem;
+  }
+}
+
+section.main .content .markdown h1,
+section.main .content .markdown h2,
+section.main .content .markdown h3,
+section.main .content .markdown h4,
+section.main .content .markdown h5,
+section.main .content .markdown h6 {
+  font-family: 'Fira Sans', 'Helvetica Neue', 'Arial', sans-serif;
+  font-weight: 500;
+}
+section.main .content .markdown h1,
+section.main .content .markdown h2 {
+  border-bottom: 1px solid #eaecef;
+}
+section.main .content .markdown code,
+section.main .content .markdown pre {
+  font-family: 'Fira Mono', 'Menlo', monospace;
+  font-size: 0.9rem !important;
+}
+
+section.main .content .markdown ol,
+section.main .content .markdown ul {
+  padding-left: 1rem;
+}
+section.main .content .markdown :checked+.radio-label {
+  position: relative;
+  z-index: 1;
+  border-color: #0366d6;
+}
+section.main .content .markdown .task-list li {
+  list-style-type: none;
+}
+section.main .content .markdown .task-list-item+.task-list-item {
+  margin-top: 3px;
+}
+section.main .content .markdown .task-list-item input {
+  margin: 0 0.2em 0.25em -1.6em;
+  vertical-align: middle;
+}
+
+section.main .content .markdown hr {
+  height: 0;
+  margin: 15px 0;
+  overflow: hidden;
+  background: transparent;
+  border: 0;
+  border-bottom: .2rem solid #eaecef;
+}
+section.main .content .markdown hr::before {
+  display: table;
+  content: "";
+}
+section.main .content .markdown hr::after {
+  display: table;
+  clear: both;
+  content: "";
+}
+
+@media (min-width: 600px) {
+  section.main .content .markdown img {
+    max-width: 90%;
+    margin: inherit 0;
+  }
+}
+section.main .content .markdown img {
+  display: block;
+  max-width: 95%;
+  margin: 2rem auto;
+}
+
+@media (min-width: 600px) {
+  section.main .content .markdown table {
+    max-width: 100%;
+  }
+}
+section.main .content .markdown table {
+  margin: 2rem auto;
+  max-width: 90%;
+}
