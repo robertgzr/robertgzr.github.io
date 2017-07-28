@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on robertgzr</title>
+    <link>https://r.gnzler.io/de/blog/</link>
+    <description>Recent content in Blogs on robertgzr</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Jul 2017 17:22:26 +0200</lastBuildDate>
+    
+	<atom:link href="https://r.gnzler.io/de/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Willkommen</title>
+      <link>https://r.gnzler.io/de/blog/willkommen/</link>
+      <pubDate>Thu, 27 Jul 2017 17:22:26 +0200</pubDate>
+      
+      <guid>https://r.gnzler.io/de/blog/willkommen/</guid>
+      <description>Sieht so aus als ware das jetzt meine Seite</description>
+    </item>
+    
+  </channel>
+</rss>
