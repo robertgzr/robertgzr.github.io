@@ -124,3 +124,32 @@ section.main .content .markdown table {
   margin: 2rem auto;
   max-width: 90%;
 }
+
+@media (min-width: 600px) {
+  section.icons {
+    padding-bottom: 0;
+  }
+  footer {
+    margin-left: 100px;
+    margin-right: 100px;
+    max-width: 750px;
+    width: 100%;
+  }
+}
+@media (max-width: 600px) {
+  footer {
+    border-top: .1rem solid #eaecef;
+    margin-top: 2rem;
+  }
+}
+footer {
+  font-size: .8rem;
+  -webkit-order: 3;
+  -moz-order: 3;
+  -ms-order: 3;
+  order: 3;
+  padding: 0 16px;
+}
+footer .container {
+  padding: 10px 0;
+}
