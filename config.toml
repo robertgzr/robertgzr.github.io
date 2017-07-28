@@ -3,7 +3,7 @@ title = "robertgzr"
 author = "Robert"
 languageCode = "en-us"
 theme = "cocoa"
-publishDir = "docs"
+publishDir = "public"
 builddrafts = false
 canonifyurls = true
 
