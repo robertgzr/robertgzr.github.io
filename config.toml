@@ -1,4 +1,4 @@
-baseURL = "https://r.gnzler.io/"
+# baseURL = "https://r.gnzler.io/"
 title = "robertgzr"
 author = "Robert"
 languageCode = "en-us"
@@ -42,7 +42,7 @@ extracssfiles = [
 ]
 
 github = "//github.com/robertgzr"
-linkedin = "//linkedin.com/in/robert-günzler-a94a3613a"
+linkedin = "//linkedin.com/in/robertguenzler"
 mastodon = "//toot.berlin/@robertgzr"
 
 [Languages]
